@@ -1,0 +1,9 @@
+{
+  "firebase": "task-shooter",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
